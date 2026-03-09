@@ -1,2 +1,2 @@
 # my-first-project-minaev
-git remote set-url origin git@github.com:<Username>/<Project>.git
+main.py - точка входа в программу, src/ - вспомогательные модули,/docs - документация
