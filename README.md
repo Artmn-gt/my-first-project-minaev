@@ -1,1 +1,2 @@
 # my-first-project-minaev
+git remote set-url origin git@github.com:<Username>/<Project>.git
